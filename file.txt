@@ -1,1 +1,2 @@
-This is excellent
+This is excellent.
+I love coding
